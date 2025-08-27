@@ -229,7 +229,6 @@ Below are detailed user journeys for diverse personas, segmented by knowledge le
 
 **Month 1**: Emma joins a Virtual Jalsa for interfaith learners, discussing the Quran's ethical themes. The AI tracks: "You've explored 4 Surahs!"
 
-## Tagline
-“Quran Companion: Your Path to Wisdom, Verse by Verse.”
+
 ----
 Quran Companion redefines Quranic learning by blending scholarly depth, AI personalization, and global accessibility into a transformative experience. It’s a tool that not only teaches but inspires, connects, and empowers users to live the Quran’s teachings.
