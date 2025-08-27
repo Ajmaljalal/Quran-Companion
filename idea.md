@@ -1,3 +1,6 @@
+# Quran Companion
+Your Path to Quranic Wisdom, Verse by Verse.
+
 ## Vision
 Quran Companion is a transformative AI-powered app that acts as a personal Quranic scholar in your pocket, making the Quran accessible, engaging, and deeply relevant to everyone, muslims, new muslims, non-muslims, young and old, male and female. By blending the richness of Tafsir, translations, and Islamic sciences with AI-driven personalization, it empowers users to learn, reflect, and live the Quran’s teachings in a way that feels intuitive, authentic, and inspiring.
 ## Core Objective
